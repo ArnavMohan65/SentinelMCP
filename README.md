@@ -25,7 +25,7 @@ A Model Context Protocol (MCP) server providing automated compliance, sanctions 
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone [<your-repo-url>](https://github.com/ArnavMohan65/SentinelMCP)
+git clone (https://github.com/ArnavMohan65/SentinelMCP)
 cd SentinelMCP
 npm install
 ```
