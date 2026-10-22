@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c1a10001-0000-0000-0000-000000000001",
+    "entity_name": "Acme Clean Tech Inc",
+    "country_code": "US",
+    "jurisdiction": "Delaware",
+    "registration_number": "ACT-109283",
+    "expected_status": "APPROVED",
+    "description": "Clean US entity with active business registry and no sanctions hits"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000002",
+    "entity_name": "Nordic Renewable Energy AS",
+    "country_code": "NO",
+    "jurisdiction": "Oslo",
+    "registration_number": "NO-992817",
+    "expected_status": "APPROVED",
+    "description": "Clean Norwegian renewable energy firm with valid registration"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000003",
+    "entity_name": "Apex Global Logistics Pte Ltd",
+    "country_code": "SG",
+    "jurisdiction": "Singapore",
+    "registration_number": "SG-20228190",
+    "expected_status": "APPROVED",
+    "description": "Clean Singapore corporate logistics provider with active standing"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000004",
+    "entity_name": "Volkov Shell Trade LLC",
+    "country_code": "RU",
+    "jurisdiction": "Moscow",
+    "registration_number": "RU-882710",
+    "expected_status": "REJECTED",
+    "description": "Russian entity flagged for shell company sanctions risk"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000005",
+    "entity_name": "Blocked Assets Holding Corp",
+    "country_code": "CY",
+    "jurisdiction": "Limassol",
+    "registration_number": "CY-441290",
+    "expected_status": "REJECTED",
+    "description": "Cypriot holding company with explicit blocked status designation"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000006",
+    "entity_name": "Illicit Mineral Exports Ltd",
+    "country_code": "MM",
+    "jurisdiction": "Yangon",
+    "registration_number": "MM-556102",
+    "expected_status": "REJECTED",
+    "description": "Myanmar mineral exporter matched against illicit trade watchlists"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000007",
+    "entity_name": "Ghost Maritime Ltd",
+    "country_code": "PA",
+    "jurisdiction": "Panama City",
+    "registration_number": "DIS-PA-9912",
+    "expected_status": "MANUAL_REVIEW",
+    "description": "Panamanian maritime entity with dissolved corporate registry status"
+  },
+  {
+    "id": "c1a10001-0000-0000-0000-000000000008",
+    "entity_name": "Boreas Offshore Holding S.A.",
+    "country_code": "LU",
+    "jurisdiction": "Luxembourg",
+    "registration_number": "LU-DISSOLVED-801",
+    "expected_status": "MANUAL_REVIEW",
+    "description": "Luxembourg holding company marked dissolved in national registry"
+  }
+]
